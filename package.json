@@ -1,7 +1,7 @@
 {
   "name": "stylus-visually-hidden",
   "version": "1.0.0",
-  "description": "A Stylus mixin for hiding content only from view",
+  "description": "A Stylus mixin for hiding content only from view.",
   "keywords": [
     "stylus",
     "css",
@@ -12,6 +12,10 @@
     "hide",
     "a11y"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juice49/stylus-visually-hidden.git"
+  },
   "author": "Ash",
   "license": "MIT"
 }
