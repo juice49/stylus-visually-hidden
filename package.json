@@ -1,6 +1,6 @@
 {
   "name": "stylus-visually-hidden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Stylus mixin for hiding content only from view.",
   "keywords": [
     "stylus",
